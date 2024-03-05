@@ -42,7 +42,7 @@
 
 - `START_PIC` - Start Message Photo. You Don't Need This! Just Skip
 
-- `STRING_API_ID - Your Premium Account API ID
+- `STRING_API_ID` - Your Premium Account API ID
 
 - `STRING_API_HASH` - Your Premium Account API HASH
 
